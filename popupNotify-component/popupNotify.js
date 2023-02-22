@@ -1,6 +1,6 @@
 const template = document.createElement('template');
 template.innerHTML = `
-    <link rel="stylesheet" href="popup.css">
+    
     <style>
     .tooltip-container{
         display: inline-inlineblock;
