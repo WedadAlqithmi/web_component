@@ -28,7 +28,7 @@ template.innerHTML = `
         border-raduis: 20px;
         padding: 1em;
         transform: scale(0);
-        transform-origin: bottom left;
+        transform-origin: bottom right;
         transition: transform .5s cubic-bezier(0.25, 0.1, 0.25, 1);
 
     }
@@ -49,7 +49,7 @@ template.innerHTML = `
                 </g>
             </svg>
             <div class="notify-container">
-                My tooltip text
+            هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
             </div>
         </div>
     `;
